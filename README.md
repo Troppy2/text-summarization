@@ -4,6 +4,24 @@
 
 A Seq2Seq model with Attention that reads a food review and generates a short summary.
 
+## Side notes
+The model is pretty bad, it was only trained on a 100 summaries so it can't make a really good summary.
+
+Sample test:
+```
+Test Loss: nan
+
+Sample predictions:
+
+Example 1
+Pred: first okay party especially rather oils lemonlime pot pot fat work approved transfer deliberately company remember loved wholesome home method
+True: flavor
+
+Example 2
+Pred: first okay party especially starving doesnt sits whenever taffy year expensive hour five tea agree regularly method visits abdominal sensitive
+True: stomach
+```
+
 ## Prerequisites
 
 Before you begin, ensure you have the following installed:
