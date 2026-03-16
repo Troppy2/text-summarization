@@ -1,0 +1,6 @@
+.env
+guide.txt
+project_structure.txt
+.venv/
+Reviews.csv
+s2s/

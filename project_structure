@@ -1,0 +1,10 @@
+
+Text_Summarizer_Project/
+├── Reviews.csv           # Amazon food reviews dataset
+├── text_summarizer.py    # Main script for training and prediction
+├── contractions.pkl      # Dictionary for expanding shortened words
+└── s2s/                  # Saved model directory
+    ├── saved_model.pb    # Model architecture and logic
+    └── variables/        # Trained weights and checkpoints
+
+https://github.com/Troppy2/text-summarization.git
